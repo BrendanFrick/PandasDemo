@@ -1,0 +1,6 @@
+name: pandas_demo
+
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
