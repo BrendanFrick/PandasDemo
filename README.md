@@ -1,5 +1,5 @@
 # PandasDemo
-Open Philly Data
+Demo notebook for basic API retrieval of OpenPhilly datasets. Intended for non-programmers
 
 # Quickstart
 - Download [Anaconda](https://www.anaconda.com/products/individual)
